@@ -1,0 +1,24 @@
+{
+  "name": "omdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisKamensky/omdb-node.git"
+  },
+  "engines": {
+    "node": "8.11.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisKamensky/omdb-node/issues"
+  },
+  "homepage": "https://github.com/DenisKamensky/omdb-node#readme"
+}
