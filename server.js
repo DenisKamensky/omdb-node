@@ -18,6 +18,6 @@ const server = http.createServer((req, res) => {
 });
 
 
-server.listen(3000, () => {
+server.listen(3000, '0.0.0.0', null,  () => {
     console.log('сервер запущен');
 });
